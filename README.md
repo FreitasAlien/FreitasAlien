@@ -20,5 +20,5 @@
 ##
 
 - 🌱 I’m a student of Information Systems at IFBA, currently studying Java and Kotlin
-- - ⚡ Fun fact: I enjoy solving Rubik's cubes! <img src="https://slackmojis.com/emojis/708-rubiks_cube/png" alt="Rubik's Cube" height="20" width="20" />
+- ⚡ Fun fact: I enjoy solving Rubik's cubes! <img src="https://slackmojis.com/emojis/708-rubiks_cube/png" alt="Rubik's Cube" height="20" width="20" />
 
