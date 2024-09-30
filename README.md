@@ -1,5 +1,8 @@
-## Hi there! I am Gustavo Freitas 👨‍💻
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00008B&center=true&vCenter=true&random=false&width=524&lines=Hi+there!+I+am+Gustavo+Freitas+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</div>
 
 
 <h1 align="center">
