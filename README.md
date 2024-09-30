@@ -3,8 +3,12 @@
 
 
 <h1 align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FreitasAlien&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" width="500" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" alt="Top Langs" width="400" />
+    <div style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=FreitasAlien&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" width="500" />
+    </div>
+    <div style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" alt="Top Langs" width="400" />
+    </div>
 </h1>
 
 
