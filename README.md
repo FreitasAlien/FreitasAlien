@@ -21,6 +21,6 @@
 ##
 
 - 🌱 I’m a student of Information Systems at IFBA, currently studying Java and Kotlin
-- ⚡ Fun fact: I enjoy solving Rubik's cubes!
+- ⚡ Fun fact: I enjoy solving Rubik's cubes! 
 - 
 
