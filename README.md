@@ -6,8 +6,8 @@
 
 
 <h1 align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FreitasAlien&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FreitasAlien&show_icons=true&theme=tokyonight" alt="Freitas GitHub stats" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasAlien&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
 </h1>
 
 
