@@ -15,10 +15,13 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="INO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>    
 </div>
 
 ##
 
 - 🌱 I’m a student of Information Systems at IFBA, currently studying Java and Kotlin
-- ⚡ Fun fact: I enjoy solving Rubik's cubes! <img src="https://slackmojis.com/emojis/708-rubiks_cube/png" alt="Rubik's Cube" height="20" width="20" />
+- ⚡ Fun fact: I enjoy solving Rubik's cubes! <img src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+           alt="Rubik's Cube" height="20" width="20" />
 
