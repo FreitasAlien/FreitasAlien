@@ -21,7 +21,6 @@
 ##
 
 - 🌱 I’m a student of Information Systems at IFBA, currently studying Java and Kotlin
-- ⚡ Fun fact: I enjoy solving Rubik's cubes! <img src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-           alt="Rubik's Cube" height="20" width="20" />
+- ⚡ Fun fact: I enjoy solving Rubik's cubes!
+- 
 
